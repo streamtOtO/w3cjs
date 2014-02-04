@@ -1,6 +1,6 @@
 {
   "author": "Thomas Davis <thomasalwyndavis@gmail.com>,  Michael Ryvin <michael.ryvlin@sitewards.com>",
-  "name": "w3cjs",
+  "name": "w3cvalidator",
   "description": "A node.js module for using the w3c validator for html and css validation. Forked from https://github.com/thomasdavis/w3cjs",
   "version": "0.1.25",
   "repository": {
