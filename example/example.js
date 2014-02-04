@@ -1,4 +1,4 @@
-var w3cjs = require('../lib/w3cjs');
+var w3cjs = require('w3cjs');
 
 var results = w3cjs.validate({
     file: 'style.css', // file can either be a local file or a remote file
